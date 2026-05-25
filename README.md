@@ -1,2 +1,3 @@
-# gangwar.
-this is my ofrst repository.
+# gangwar
+<br>
+This is my first repository.
